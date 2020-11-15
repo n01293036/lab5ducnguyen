@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab5ducnguyen</string>
+    <string name="mainbutton">Go to homefragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hometextviet">SIGN UP</string>
+    <string name="name">Enter your name</string>
+    <string name="hintname">Name:</string>
+    <string name="nextbutton">Next</string>
+    <string name="mainactivity">Press button to go SIGN UP page</string>
+    <string name="hintage">Enter age:</string>
+    <string name="finishbutton">Finish</string>
+    <string name="hintmau">Enter colour:</string>
+</resources>
